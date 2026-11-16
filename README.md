@@ -2,13 +2,13 @@
 
 **BDO CASE | AI Engineer | Dr. Ravindra R. Patil**
 
-Live application: https://bdo-ai-case.onrender.com (health check: /health)
+Live application: https://my-ai-agent-roig.onrender.com (health check: /health)
 Repository: https://github.com/RavindraPatilg/bdo-ai-case
 
 ## Repository layout
 
 ```
-bdo-ai-case/
+my-ai-agent/
 ├── app/            FastAPI application (config, sources, verify, websearch, llm, models, store, main)
 ├── tests/          5 offline tests plus the offline guarantee in conftest.py
 ├── docs/           Deliverable README (Word/PDF), saved analyses, design notes, architecture sketch
