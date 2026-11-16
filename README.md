@@ -3,7 +3,7 @@
 **BDO CASE | AI Engineer | Dr. Ravindra R. Patil**
 
 Live application: https://my-ai-agent-roig.onrender.com (health check: /health)
-Repository: https://github.com/RavindraPatilg/bdo-ai-case
+Repository: https://github.com/RavindraPatilg/my-ai-agent
 
 ## Repository layout
 
